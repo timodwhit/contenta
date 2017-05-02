@@ -1,0 +1,6 @@
+name: Contenta Demo
+type: module
+package: Contenta
+description: 'Create demo content and demo node types.'
+version: VERSION
+core: 8.x

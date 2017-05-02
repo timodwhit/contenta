@@ -1,0 +1,8 @@
+name: Contenta Page
+type: module
+package: Contenta
+description: 'Create default page node type.'
+version: VERSION
+core: 8.x
+dependencies:
+  - contenta_base

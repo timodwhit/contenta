@@ -1,0 +1,6 @@
+name: Contenta Devel
+type: module
+package: Contenta
+description: 'Developer module set for contenta.'
+version: VERSION
+core: 8.x

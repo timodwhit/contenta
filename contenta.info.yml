@@ -1,0 +1,38 @@
+name: Contenta
+type: profile
+description: 'Build an API First site and extend off this to be happy.'
+version: VERSION
+core: 8.x
+distribution:
+  name: Contenta
+  install:
+    theme: seven
+dependencies:
+  - node
+  - block
+  - field
+  - field_ui
+  - file
+  - content_moderation
+  - dblog
+  - rest
+  - jsonapi
+  - system
+  - help
+  - user
+  - toolbar
+  - breakpoint
+  - history
+  - filter
+  - ckeditor
+  - config
+  - datetime
+  - editor
+  - image
+  - options
+  - page_cache
+  - dynamic_page_cache
+  - taxonomy
+  - automated_cron
+themes:
+  - seven

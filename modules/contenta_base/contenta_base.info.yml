@@ -1,0 +1,6 @@
+name: Contenta Base
+type: module
+description: 'Holds base configuration for other content types.'
+version: VERSION
+core: 8.x
+distribution:

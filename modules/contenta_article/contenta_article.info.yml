@@ -1,0 +1,8 @@
+name: Contenta Articles
+type: module
+package: Contenta
+description: 'Create a default article node type that can be extended.'
+version: VERSION
+core: 8.x
+dependencies:
+  - contenta_base
